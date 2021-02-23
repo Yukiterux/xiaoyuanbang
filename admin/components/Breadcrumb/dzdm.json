@@ -1,0 +1,46 @@
+{
+    "dzdm": [
+        {
+            "name": "首页",
+            "pid": 0,
+            "id": 28,
+            "iconCls": "el-icon-location",
+            "url": "/admin"
+        },
+        {
+            "name": "订单管理",
+            "pid": 0,
+            "id": 28,
+            "iconCls": "el-icon-location",
+            "url": "/admin/order"
+        },
+        {
+            "name": "用户管理",
+            "pid": 0,
+            "id": 28,
+            "iconCls": "el-icon-location",
+            "url": "/admin/user",
+            "childNode":[{
+                "name": "用户审核",
+                "pid": 0,
+                "id": 28,
+                "iconCls": "el-icon-location",
+                "url": "/admin/user/check"
+            }]
+        },
+        {
+            "name": "评价查看",
+            "pid": 0,
+            "id": 28,
+            "iconCls": "el-icon-location",
+            "url": "/comment"
+        },
+        {
+            "name": "系统设置",
+            "pid": 0,
+            "id": 28,
+            "iconCls": "el-icon-location",
+            "url": "/set"
+        }
+    ]
+}

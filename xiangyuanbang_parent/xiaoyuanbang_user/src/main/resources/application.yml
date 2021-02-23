@@ -1,0 +1,38 @@
+server: 
+  port: 9999
+spring: 
+  application:  
+    name: xiaoyuanbang-user #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.25.130:3306/xiaoyuanbang?characterEncoding=UTF8
+    username: root
+    password: 123456
+  jpa: 
+    database: MySQL
+    show-sql: true
+  redis:
+    host: 192.168.25.130
+  rabbitmq:
+    host: 192.168.25.130
+  data:
+    elasticsearch:
+      cluster-nodes: 192.168.25.130:9300
+oss:
+  ossaddress: oss-cn-beijing.aliyuncs.com
+  accessKeyId: LTAI4NrGW4DIk7l8
+  accessKeySecret: almTNbWvH0GNyThOBQGS3Grhd5ofco
+  bucketName: xiaoyuanbang
+  filePath: images/
+alipay:
+  appID: 
+  merchantPrivateKey: znZ0uz8aoxROMxRVzU6M35G1YWyY5Cn1RT7OqGuTq0Bb+KoYC5VB+uyv0YbgAtVWwx2xQImaX8mkSNJ8+CNLsHNrmnh63cJzfsdIx9UvUfGAkiDBfcUbC19DPSCJz3V9j71550A1BKEjwMImulgYvwsEQQ5n+KpdBZQMB6stBsM0lJFhH6dxbWa1idkqXAkYvQkr4yOG/lCrFS/evm8tIzKw7yEm9GK+/7dPK9moQjC0hyrdfAgMBAAECggEAeyigSUJxyaI70vrycn3D4Q2kESXNhUPMSulJS7903/H9TYGxgVnP/o/a40Gy3INf2OQSeDUJ+sy0yo7X6f/SWIiMeQLsJxvp9bPcEoyD8HJehMm8Bh7oMst5nMItoCqwNf3GgSumO1gWfstD4IzSNwuoeMdvRN4VL6KdcJHEqApTQ3QMX4R03VWVI1g7neQFMzXlzkpSj1AwWce87QsgFZVeSt51NnQTPx/Kt0WIE2u5G3CblpK1pDEhKRtxuMlVI4iUIZSvza3W0On/UszkvfOs32NoWKdb5I+Cnl9iK43tDRzd5ngypj9jP7Bvc7rDy/qFKcYGzz9/7xzXwTtgUQKBgQDOuEEKQDpEDtTAG6DHBo171Byu65W73hZPY3d6XyjtXbOIFTC0IX9v3EYkSrpXDPCsdCLOYW7uwkaGGZWUzq8ZBU0rruZYBPx+nfSxgcyRdnaA9THBL1PA0uhHpzLY/Kj9sfR1E0dxlGgE979w3JS4Sq04t7jPZM8SisWtOSh9BwKBgQDAVKeuoWzJP37vECiyyqT1EwEhmZKLTtGBenEZgguzDlMOmUGUnkBd+G6oWlmWNdtmf847BgJOCA3NigOazOWbnJS8hHyVGIl0mV3qSYd9jBuUZ8Fl2j60zGUHSQZJFMSbfuI85I+iKp6xMb1iNM3F/fJ2Hoy5OYTugD/tQbi06QKBgEvT+sev16+vYQs3FzrqhGuv2vWvJTXMuZJVgjY5QeIQRRLd8wegYga+XlxhrQjRjlc0IrBhvTeHvCbkq6HyTvh2oWAswAH5kkU/28phOpEBS2byilW67pYEx3/BLT27MKIe7PUlJUfckGuCFY9o2oTfn7r2aaxp5it/DBQGq3txAoGAe4tlkyWabcPd0877da36PHsStPSjT903cwal9A63WTOQYsZLfB4Tlslou7gd6AF8h+D9Jqj7fghqZWeMXTnVHBp+6IHqTRPP6BhEXaUR5bHEXZYwgy6oLRdGpmFgKj2u9XuR9C+VnEPoYEZlMtpcfBxeTUXee3TZUSMM7WjUL1ECgYEAq+XnFBAVgEC3rUsXww0UWiUcweR7FNgTWz2gfVA7/bhEM5gpYUOcgYRZggUHqipGM5T90j8qKAX1Fn5zKAEFsBKWwiHAx/7oUQrbIVm+AxQGDdYiAQ20iGLsqZxOmzMzz9BUwghMrMScoG+0g0wcJ7qmJ9447j9qduRrxuWPrJA=
+  alipayPublicKey: NrFcVMhpcl2U+TcYL75IIorGEkALLfktX9brM0eLCzcCFR85fVW3pQcTV1wrWZd/l6PZ6Q1L1a/T1c1tJVdKAkhHHq4XDNJ9Eab6RI45kstc5EwIDAQAB
+  gatewayUrl: https://openapi.alipaydev.com/gateway.do
+  sysServiceProviderId: kcgvll
+  notifyUrl: http://xiaoyuanbang.free.idcfengye.com/alipay/notify
+  returnUrl: http://r7f83g.natappfree.cc
+jwt:
+  config:
+    key: xhwsdsg
+    ttl: 36000000

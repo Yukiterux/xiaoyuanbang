@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36cb77a0-9245-4535-95b7-41b29b07af0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../template/pages/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../template/pages/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file" beforeDir="false" afterPath="$PROJECT_DIR$/file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/pay/controller/AliPayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/pay/controller/AliPayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoyuanbang_user/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoyuanbang_user/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoyuanbang_user/target/classes/com/xiaoyuanbang/oss/utils/OSSUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoyuanbang_user/target/classes/com/xiaoyuanbang/oss/utils/OSSUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoyuanbang_user/target/classes/com/xiaoyuanbang/pay/controller/AliPayController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoyuanbang_user/target/classes/com/xiaoyuanbang/pay/controller/AliPayController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoyuanbang_user/target/classes/com/xiaoyuanbang/user/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoyuanbang_user/target/classes/com/xiaoyuanbang/user/service/UserService.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/xiaoyuanbang_user/target/" />
+    <ignored path="$PROJECT_DIR$/xiaoyuanbang_admin/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/xiangyuanbang_parent$AdminApplication.ic" NAME="AdminApplication Coverage Results" MODIFIED="1577625043454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.xiaoyuanbang.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/UserApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/pay/controller/AliPayController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="193" column="44" selection-start-line="193" selection-start-column="44" selection-end-line="193" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="264" column="24" selection-start-line="264" selection-start-column="24" selection-end-line="264" selection-end-column="24" />
+              <folding>
+                <element signature="e#8212#8213#0" expanded="true" />
+                <element signature="e#8278#8279#0" expanded="true" />
+                <element signature="e#10447#10448#0" expanded="true" />
+                <element signature="e#10494#10495#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3249">
+              <caret line="339" column="24" lean-forward="true" selection-start-line="339" selection-start-column="24" selection-end-line="339" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>login</find>
+      <find>orderPla</find>
+      <find>id as id,create_time as create_time,</find>
+      <find>findByIs_userdeleteAndUseridOrderBy</find>
+      <find>cancelOrderAndRefundAndUpdateGrade</find>
+      <find>cancelOrderAndRefund</find>
+      <find>elete</find>
+      <find>25.130</find>
+      <find>initCsfy</find>
+      <find>findById</find>
+      <find>User</find>
+      <find>errandsCancelOrder</find>
+      <find>delete</find>
+      <find>regist</find>
+      <find>content</find>
+      <find>category_id</find>
+      <find>updatei</find>
+      <find>info</find>
+      <find>updateI</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>findOrderPlacedOrderBy</replace>
+      <replace>id as id,errandsid as errandsid,create_time as create_time,</replace>
+      <replace>25.131</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/service/OrderService.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/search/pojo/OrderResult.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/UserApplication.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/search/listener/OrderVoListener.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/search/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/search/service/OrderVoService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/user/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/dao/AdminDao.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/AdminApplication.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/task/ScheduleTask.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/pojo/Admin.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/model/EsOrderVo.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/model/Admin.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/model/EsOrderVo.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/filter/JwtFilter.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/model/Comment.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/content/controller/ContentController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/RandomValueUtil.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/user/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/controller/MapController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/common/task/ScheduleTask.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/model/Content.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/content/service/ContentService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/content/service/ContentService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/pay/controller/AliPayController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/dao/UserDao.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repo" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.0.5" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xiaoyuanbang_user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xiaoyuanbang_user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xiaoyuanbang_user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xiaoyuanbang_user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="95" />
+    <option name="y" value="469" />
+    <option name="width" value="1383" />
+    <option name="height" value="874" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiangyuanbang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiangyuanbang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaoyuanbang_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581929102938" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xiaoyuanbang.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiaoyuanbang.model" />
+      <recent name="com.xiaoyuanbang.order.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xiaoyuanbang\xiaoyuanbang_end\xiangyuanbang_parent\xiaoyuanbang_admin\src\main\java\com\xiaoyuanbang" />
+      <recent name="E:\xiaoyuanbang\xiaoyuanbang_end\xiangyuanbang_parent\xiaoyuanbang_admin\src\main\java\com\xiaoyuanbang\admin" />
+      <recent name="E:\xiaoyuanbang\xiaoyuanbang_end\xiangyuanbang_parent\xiaoyuanbang_admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminApplication">
+    <configuration name="MapController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaoyuanbang.common.controller.MapController" />
+      <module name="xiaoyuanbang_admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoyuanbang.common.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xiaoyuanbang_admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaoyuanbang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoyuanbang.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xiaoyuanbang_user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoyuanbang.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AdminApplication" />
+        <item itemvalue="Application.MapController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36cb77a0-9245-4535-95b7-41b29b07af0a" name="Default Changelist" comment="" />
+      <created>1575552745372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575552745372</updated>
+      <workItem from="1575552751832" duration="3087000" />
+      <workItem from="1575597002616" duration="862000" />
+      <workItem from="1575618165194" duration="7965000" />
+      <workItem from="1575856018889" duration="18166000" />
+      <workItem from="1575888408868" duration="14988000" />
+      <workItem from="1576119585603" duration="6000" />
+      <workItem from="1576218518190" duration="1393000" />
+      <workItem from="1576393262279" duration="1475000" />
+      <workItem from="1576485746670" duration="9749000" />
+      <workItem from="1576654588468" duration="2634000" />
+      <workItem from="1576738868089" duration="6205000" />
+      <workItem from="1577156162150" duration="1864000" />
+      <workItem from="1577170396976" duration="207000" />
+      <workItem from="1577170637932" duration="21000" />
+      <workItem from="1577179531608" duration="666000" />
+      <workItem from="1577180467156" duration="2611000" />
+      <workItem from="1577268378529" duration="6265000" />
+      <workItem from="1577363117206" duration="3785000" />
+      <workItem from="1577434392622" duration="599000" />
+      <workItem from="1577683684108" duration="1401000" />
+      <workItem from="1577705408183" duration="2849000" />
+      <workItem from="1578219535159" duration="7268000" />
+      <workItem from="1578274884879" duration="1743000" />
+      <workItem from="1578281105838" duration="7104000" />
+      <workItem from="1578381068592" duration="14065000" />
+      <workItem from="1578446585861" duration="1032000" />
+      <workItem from="1578476025654" duration="5567000" />
+      <workItem from="1578563464761" duration="646000" />
+      <workItem from="1578564872100" duration="2448000" />
+      <workItem from="1578619692177" duration="1506000" />
+      <workItem from="1578625227301" duration="185000" />
+      <workItem from="1578625513098" duration="1088000" />
+      <workItem from="1578663361753" duration="822000" />
+      <workItem from="1579178781730" duration="69000" />
+      <workItem from="1581853529101" duration="4198000" />
+      <workItem from="1581914548403" duration="6392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147450000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25159913" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49962208" weight="0.32793522" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.82539684" visible="true" weight="0.1583514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48429036" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32793522" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32928476" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27665317" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.17460318" side_tool="true" weight="0.52361673" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49962208" weight="0.27702704" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32793522" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32928476" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.5547997" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="aiXcoder" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22600152" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5154062" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48429036" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914573" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.33046684" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3280098" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50092083" side_tool="true" weight="0.42383292" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.28011206" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32914573" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.5554371" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="aiXcoder" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/service/OrderService.java</url>
+          <line>304</line>
+          <properties class="com.xiaoyuanbang.order.service.OrderService" method="updateCancelOrder" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/service/AdminService.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/controller/AdminController.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/filter/JwtFilter.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/filter/JwtFilter.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/service/OrderService.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/controller/OrderController.java</url>
+          <line>150</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/service/AdminService.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/service/UserService.java</url>
+          <line>199</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/controller/OrderController.java</url>
+          <line>474</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="511" selection-start-line="511" selection-end-line="511" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/model/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Map.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/admin/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.6.RELEASE/spring-data-commons-2.0.6.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/search/service/OrderVoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/entity/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/entity/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3173">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/entity/StatusCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/JwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/IKUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/FileUtil.java" />
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/DownloadUtil.java" />
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-186">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/content/controller/ContentCategoryController.java" />
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="143" column="28" lean-forward="true" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+          <folding>
+            <element signature="method#findById#1;class#OrderController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#232#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1368">
+          <caret line="248" column="28" selection-start-line="248" selection-start-column="28" selection-end-line="248" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="method#createSpecification#0;class#OrderService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/util/RandomValueUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1607#1608#0" expanded="true" />
+            <element signature="e#1670#1671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/common/controller/MapController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="method#getAddress#0;class#MapController#0" />
+            <element signature="method#randomOrder#0;class#MapController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/order/service/CommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="107" column="7" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="7" />
+          <folding>
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1660">
+          <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#253#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#252#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#258#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#257#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#253#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#252#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#248#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#247#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#252#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#251#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#253#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#252#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#248#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#247#1" expanded="true" />
+            <element signature="e#0#75#1" expanded="true" />
+            <element signature="e#0#293#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#292#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#298#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#297#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#288#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#287#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#292#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#291#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#288#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+            <element signature="e#0#287#1" expanded="true" />
+            <element signature="e#0#84#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/filter/JwtFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/common/task/ScheduleTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433">
+          <caret line="393" column="77" selection-start-line="393" selection-start-column="77" selection-end-line="393" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/InterceptorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/content/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+          <folding>
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="156" selection-end-column="5" />
+          <folding>
+            <element signature="method#findInfoById#0;class#UserController#0" />
+            <element signature="method#findByMoblie#0;class#UserController#0" />
+            <element signature="method#checkName#0;class#UserController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+          <folding>
+            <element signature="e#2427#2428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/model/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/content/dao/ContentCategoryDao.java" />
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/model/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/content/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+          <folding>
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/content/dao/ContentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/content/service/ContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/content/service/ContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#975#976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_admin/src/main/java/com/xiaoyuanbang/AdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3249">
+          <caret line="339" column="24" lean-forward="true" selection-start-line="339" selection-start-column="24" selection-end-line="339" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="264" column="24" selection-start-line="264" selection-start-column="24" selection-end-line="264" selection-end-column="24" />
+          <folding>
+            <element signature="e#8212#8213#0" expanded="true" />
+            <element signature="e#8278#8279#0" expanded="true" />
+            <element signature="e#10447#10448#0" expanded="true" />
+            <element signature="e#10494#10495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoyuanbang_user/src/main/java/com/xiaoyuanbang/pay/controller/AliPayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="193" column="44" selection-start-line="193" selection-start-column="44" selection-end-line="193" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xiangyuanbang_parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
